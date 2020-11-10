@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Segunda_Evaluacion</string>
+    <string name="codigo">CL17-I04-003</string>
+    <string name="calculadora">CALCULADORA</string>
+    <string name="datos">DATOS</string>
+    <string name="nombre">Victoria Alejandra Cuéllar Larín</string>
+    <string name="AC">AC</string>
+    <string name="DEL">DEL</string>
+    <string name="mas">+</string>
+    <string name="menos">-</string>
+    <string name="sie">7</string>
+    <string name="och">8</string>
+    <string name="nuev">9</string>
+    <string name="entre">/</string>
+    <string name="cuat">4</string>
+    <string name="cin">5</string>
+    <string name="seis">6</string>
+    <string name="por">*</string>
+    <string name="uno">1</string>
+    <string name="dos">2</string>
+    <string name="tres">3</string>
+    <string name="igual">=</string>
+    <string name="parend">(</string>
+    <string name="pareni">)</string>
+    <string name="punto">.</string>
+    <string name="cero">0</string>
+
+</resources>
